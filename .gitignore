@@ -1,0 +1,10 @@
+# Database
+stacksample/stacksample.zip
+stacksample/Answers.csv
+stacksample/Questions.csv
+stacksample/Tags.csv
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.csv
