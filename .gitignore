@@ -7,3 +7,4 @@ stacksample/Tags.csv
 # Jupyter Notebook files
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.csv
