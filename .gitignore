@@ -8,3 +8,4 @@ stacksample/Tags.csv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.csv
+.DS_Store
